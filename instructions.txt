@@ -1,0 +1,4 @@
+1. Open this code in your IDE
+2. Replace the "file.py" on line 9 with the name of the Python file you want to convert
+3. ????
+4. Profit
